@@ -1,0 +1,47 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Last",
+    "age": 25,
+    "experience": 10,
+    "streetName": "Street",
+    "buildNumber": 5,
+    "apartmentNumber": 5,
+    "city": "City",
+    "intellect": 150
+  },
+  {
+    "firstName": "Mike",
+    "lastName": "First",
+    "age": 33,
+    "experience": 5,
+    "streetName": "Street",
+    "buildNumber": 5,
+    "apartmentNumber": 5,
+    "city": "Town",
+    "effectiveness": 3,
+    "provision": 25
+  },
+  {
+    "firstName": "Gringo",
+    "lastName": "Third",
+    "age": 41,
+    "experience": 21,
+    "streetName": "Street",
+    "buildNumber": 5,
+    "apartmentNumber": 5,
+    "city": "Gotham",
+    "physicalStrength": 150
+  },
+  {
+    "firstName": "Mate",
+    "lastName": "Someone",
+    "age": 44,
+    "experience": 2,
+    "streetName": "Street",
+    "buildNumber": 5,
+    "apartmentNumber": 5,
+    "city": "Gotham",
+    "intellect": 75
+  }
+]
