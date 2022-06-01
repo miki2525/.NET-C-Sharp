@@ -1,0 +1,3 @@
+C:\Users\Doktor\Desktop\gazy\IIIrok\VI semestr\DOT\Ćwiczenia\001_rpn-miki2525\RPN\RPN\obj\Debug\RPNCalculator.csproj.AssemblyReference.cache
+C:\Users\Doktor\Desktop\gazy\IIIrok\VI semestr\DOT\Ćwiczenia\001_rpn-miki2525\RPN\RPN\obj\Debug\RPNCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doktor\Desktop\gazy\IIIrok\VI semestr\DOT\Ćwiczenia\001_rpn-miki2525\RPN\RPN\obj\Debug\RPNCalculator.csproj.CoreCompileInputs.cache
